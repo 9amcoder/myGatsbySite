@@ -1,0 +1,30 @@
+- name: Real time news and chat mobile app
+  url: https://github.com/SteveSultan/news-and-chat-app-react-native-mobile
+  description: News and Chat App :- React Native Expo with Firebase
+  status: in progress
+  tags:
+    - JavaScript
+    - React Native
+    - Expo
+  icon: github
+  image: images/project2.jpg
+
+- name: Github user search app
+  url: https://githubapisearchbysteve.netlify.app/
+  description: Input any user name and get the details of the user
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
+
+- name: Mini game
+  url: https://rockpaperbysteve.netlify.app/
+  description: One of my favorite mini game - Rock paper scissors
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project3.jpg

@@ -1,0 +1,33 @@
+- profile:
+  initials: SS
+  name: Steve Sultan
+  profession: Software Developer
+  image: images/profile.jpg
+  location: Toronto, Canada
+  relocation: true
+  company: Markitech Inc.
+  for_hire: true
+  focus: Web and Mobile development
+  focus_url: https://github.com/stevesultan
+  about: |
+    Dedicated and efficient Full Stack and Mobile app Developer with 3 years experience in application layers, presentation layers, and databases. 
+
+    Familiar with various operating systems, and various tech stacks like MEAN, MERN. Highly motivated in software design and business domain analysis.
+  skills:
+    - JavaScript / HTML / CSS
+    - Front end :- React, Vue
+    - Back end :- Node, Express
+    - DevOps :- Docker, Kubernetes, AWS
+    - Mobile :- React Native, Flutter
+  tools:
+    - AWS
+    - GCP
+    - Firebase
+    - Git / Github
+    - VSCode
+    - npm/yarn
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
